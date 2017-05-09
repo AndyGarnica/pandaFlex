@@ -12,7 +12,7 @@ function eleccion(){
 
 function ocultarImagen(tache) {
 console.log(tache);
-  tache.parentNode.style.display="none";
+  tache.parentNode.style.visibility="hidden";
 }
 
 var botonRestaurar = document.getElementById('restaurando');
@@ -20,7 +20,7 @@ botonRestaurar.addEventListener("click",restaurar);
 
 function restaurar(){
   for(var i=0;i<imagen.length;i++){
-imagen[i].style.display="inline-block";
+imagen[i].style.visibility="visible";
 }
 }
 
