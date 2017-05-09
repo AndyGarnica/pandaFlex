@@ -43,7 +43,6 @@ body{
 }
 .imagenes{
   max-width: 100%;
-
 }
 .cerrar{
   position: absolute;
@@ -70,6 +69,7 @@ justify-content: space-around;
   margin: 15px;
 }
 footer{
+  align-content: flex-end;
   color: #540f92;
   font-size: 40px;
   display: flex;
