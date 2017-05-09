@@ -1,0 +1,122 @@
+*{
+  text-align: center;
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  background: #54CF92;
+}
+.title{
+  font-size: 50px;
+}
+.logo{
+  margin-left: 20px;
+  width: 60px;
+  height: 60px;
+}
+.title{
+  color: #540f92;
+}
+nav{
+  margin-top: 20px;
+  margin-right: 10px;
+}
+a{
+  text-transform: uppercase;
+  color:#540f92	;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 150%;
+}
+a:hover{
+  color:#B10386;
+}
+.container{
+  display: flex;
+}
+.imagenes{
+  width:250px;
+  height:250px;
+}
+.cerrar{
+  position: absolute;
+  font-size: 20px;
+  color: #549f92;
+}
+/*header{
+  width: auto;
+  height: 40px;
+  background:#FFE4C4;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 140%;
+  text-align: right;
+}*/
+
+/*#almacenImagenes{
+  display:inline-block;
+  margin-left: 300px;
+  margin-top: 15px;
+}
+
+.casitaImagen{
+  display: inline-block;
+  position: relative;
+}
+.tacheCerrar{
+  color:#CC66CC;
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+  font-family: 'Sniglet', cursive;
+
+
+}
+
+img{
+  display:inline-block;
+  margin:10px;
+  width:150px;
+  height: 150px;
+  border-radius: 20px;
+  border-color:#FFE4C4;
+}
+#almacenBotones{
+  margin-left: 210px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.botoncitos{
+  display:inline-block;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 100%;
+  background-color:#D8BFD8;
+  border: solid 2px #FFCC99;
+  margin:10px;
+  color:#228B22;
+  width: 260px;
+  height: 60px;
+  text-align: center;
+}
+#almacenTexto{
+  margin-left:350px;
+}
+.texto{
+  font-family: 'Sniglet', cursive;
+  font-size: 100%;
+  color: #228B22;
+  display: inline-block;
+  width: 300px;
+  text-align: justify;
+  margin: 10px;
+  position:relative;
+
+
+
+}
+.texto2{
+color:#CC99CC;
+position: relative;
+}*/*/
